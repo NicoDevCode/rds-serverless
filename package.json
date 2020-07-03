@@ -1,0 +1,19 @@
+{
+  "name": "crud-rds-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "pg": "^8.2.1",
+    "postgres": "^1.0.2",
+    "querystring": "^0.2.0",
+    "serverless-offline": "^3.25.11"
+  }
+}
